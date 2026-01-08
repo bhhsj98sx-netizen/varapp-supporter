@@ -1,6 +1,8 @@
 {
   "updated": "2026-01-09",
   "supporters": [
-    
+    { "name": "Alice", "tier": "Supporter" },
+    { "name": "Bob", "tier": "VIP" }
   ]
 }
+
