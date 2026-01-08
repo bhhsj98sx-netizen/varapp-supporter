@@ -1,8 +1,9 @@
 {
   "updated": "2026-01-09",
   "supporters": [
-    { "name": "Alice", "tier": "Supporter" },
-    { "name": "Bob", "tier": "Sponsor" },
-    { "name": "Charlie", "tier": "Angel Patron" }
+    { "name": "it", "tier": "Supporter" },
+    { "name": "just", "tier": "Sponsor" },
+    { "name": "work", "tier": "Angel Patron" }
   ]
 }
+
